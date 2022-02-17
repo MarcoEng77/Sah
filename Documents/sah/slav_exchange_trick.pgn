@@ -1,0 +1,21 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/qKNspLr1"]
+[Date "2022.02.17"]
+[White "Cuant"]
+[Black "merdy"]
+[Result "1-0"]
+[UTCDate "2022.02.17"]
+[UTCTime "10:24:44"]
+[WhiteElo "1905"]
+[BlackElo "2034"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Bf4 Qb6 5. Nc3 Nf6 6. e3 a6 7. a3 Qxb2 8. Na4 Qxa1 9. Qxa1 e6 10. Nb6 1-0
+
+
